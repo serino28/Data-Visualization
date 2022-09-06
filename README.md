@@ -4,4 +4,4 @@ In questo report, quindi, viene presentata la progettazione di un’infografica 
 In una prima fase sono stati raccolti i dati e informazioni sull’argomento ed è stata realizzata un’infografica che potesse comunicare al meglio il nostro obiettivo. Successivamente è stata effettuata una valutazione euristica che evidenziasse eventuali problematiche al fine di produrre un’infografica migliore. La terza ed ultima fase comprendeva un test utente al fine di valutare efficacia ed efficienza della visualizzazione e un questionario psicometrico per valutarne la soddisfazione.
 <br><br>
 
-Per visualizzare le infografiche dinamiche visitare il seguente link: https://public.tableau.com/app/profile/andrea3242/viz/DataViz_16417747478580/Storia1
+Per visualizzare le infografiche dinamiche visitare il seguente link: https://public.tableau.com/app/profile/andrea3242/viz/COVID-19VaccineHospitalLoad/Storia1?publish=yes
